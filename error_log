@@ -1,0 +1,9 @@
+[10-Oct-2014 22:42:57 Australia/Melbourne] PHP Fatal error:  Class 'Starkers_Utilities' not found in /home2/esperant/public_html/wp-content/themes/esperanto-2014/index.php on line 17
+[10-Oct-2014 22:43:04 Australia/Melbourne] PHP Warning:  shell_exec() has been disabled for security reasons in /home2/esperant/public_html/wp-content/themes/esperanto-2014/gitpull.php on line 1
+[10-Oct-2014 22:43:59 Australia/Melbourne] PHP Warning:  shell_exec() has been disabled for security reasons in /home2/esperant/public_html/wp-content/themes/esperanto-2014/gitpull.php on line 1
+[10-Oct-2014 22:51:10 Australia/Melbourne] PHP Warning:  shell_exec() has been disabled for security reasons in /home2/esperant/public_html/wp-content/themes/esperanto-2014/gitpull.php on line 1
+[10-Oct-2014 22:52:58 Australia/Melbourne] PHP Warning:  shell_exec() has been disabled for security reasons in /home2/esperant/public_html/wp-content/themes/esperanto-2014/gitpull.php on line 1
+[10-Oct-2014 22:54:48 Australia/Melbourne] PHP Warning:  shell_exec() has been disabled for security reasons in /home2/esperant/public_html/wp-content/themes/esperanto-2014/gitpull.php on line 1
+[10-Oct-2014 22:55:46 Australia/Melbourne] PHP Warning:  shell_exec() has been disabled for security reasons in /home2/esperant/public_html/wp-content/themes/esperanto-2014/gitpull.php on line 1
+[13-Oct-2014 00:09:28 Australia/Melbourne] PHP Warning:  shell_exec() has been disabled for security reasons in /home2/esperant/public_html/wp-content/themes/esperanto-2014/gitpull.php on line 1
+[19-Oct-2014 20:39:39 Australia/Melbourne] PHP Warning:  shell_exec() has been disabled for security reasons in /home2/esperant/public_html/wp-content/themes/esperanto-2014/gitpull.php on line 1
