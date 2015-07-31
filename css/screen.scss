@@ -267,7 +267,7 @@ header {
 
         a {
             h2 {
-                display: inline;
+                display: inline-block;
                 &:hover {
                     background: $esperanto-seafoam;
                     color: $esperanto-white;
@@ -313,7 +313,7 @@ header {
 #super {
     a {
         h2 {
-            display: inline-block;
+            display: inline;
             &:hover {
                 background: $esperanto-seafoam;
                 color: $esperanto-white;
