@@ -166,7 +166,7 @@ header nav {
       #content-body article blockquote p {
         line-height: 1.25em; }
     #content-body article a h2 {
-      display: inline-block; }
+      display: inline; }
       #content-body article a h2:hover {
         background: #00ffc0;
         color: white; }
